@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Умыться",
+    "isShow": true
+  },
+  {
+    "key": 2,
+    "title": "Зарядка",
+    "isShow": true
+  },
+  {
+    "key": 3,
+    "title": "Завтрак",
+    "isShow": true
+  },
+  {
+    "key": 4,
+    "title": "Учеба",
+    "isShow": true
+  },
+  {
+    "key": 5,
+    "title": "Обед",
+    "isShow": true
+  },
+  {
+    "key": 6,
+    "title": "Тренеровка",
+    "isShow": true
+  },
+  {
+    "key": 7,
+    "title": "Купаться",
+    "isShow": true
+  },
+  {
+    "key": 8,
+    "title": "Спать",
+    "isShow": true
+  }
+]
